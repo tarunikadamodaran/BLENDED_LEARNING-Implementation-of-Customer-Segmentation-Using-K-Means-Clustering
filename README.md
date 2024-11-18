@@ -34,8 +34,8 @@ To implement customer segmentation using K-Means clustering on the Mall Customer
 ```
 /*
 Program to implement customer segmentation using K-Means clustering on the Mall Customers dataset.
-Developed by: GUGHAN S
-RegisterNumber:  212223240043
+Developed by: TARUNIKA D
+RegisterNumber:  212223040227
 */
 
 
